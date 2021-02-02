@@ -2,14 +2,14 @@
 
 :wave: Hello My name is Jinho
 
-My major is **computer science:computer:**, I have project experience using **Node.js & Javascript**, Python. Check my portfolio here [![Tech Blog Badge](http://img.shields.io/badge/-blog-black?style=flat-square&logo=github&link=https://mario3316.github.io/)](https://mario3316.github.io/). I am interested in **Backend Development** and currently being educated **JAVA & Spring** at **SSAFY (Samsung Software Academy For Youth)**
+My major is **computer science:computer:**, I have project experience using **Node.js & Javascript**, **Java** and Python. Check my projects here [![Tech Blog Badge](http://img.shields.io/badge/-blog-black?style=flat-square&logo=github&link=https://mario3316.github.io/)](https://mario3316.github.io/). I am interested in **Backend Development** and currently being educated **Java & Spring** at **SSAFY (Samsung Software Academy For Youth)**
 
 ### :cyclone: Career
 
 |           **Type**           |     **Date**      |          **Contents**           |   **Organization**    |
 | :--------------------------: | :---------------: | :-----------------------------: | :-------------------: |
 | **:mortar_board: Education** | 2014. 3 ~ 2021. 2 |  Computer Science Engineering   | **Konkuk University** |
-| **:mortar_board: Education** |     2021. 1 ~     | Web Programming , Spring , JAVA |       **SSAFY**       |
+| **:mortar_board: Education** |     2021. 1 ~     | Web Programming , Spring , Java |       **SSAFY**       |
 |    **:office:Employment**    | 2020. 1 ~ 2020. 2 | Backend Developer (Internship)  |   **Coconut Silo**    |
 
 ### :mailbox_with_mail: Contacts
