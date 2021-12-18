@@ -11,6 +11,9 @@ My major is **computer science:computer:**, I have project experience using **No
 | **:mortar_board: Education** | 2014. 3 ~ 2021. 2 |  Computer Science Engineering   | **Konkuk University** |
 | **:mortar_board: Education** |     2021. 1 ~     | Web Programming , Spring , Java |       **SSAFY**       |
 |    **:office:Employment**    | 2020. 1 ~ 2020. 2 | Backend Developer (Internship)  |   **Coconut Silo**    |
+|    **:office:Employment**    | 2021. 6 ~ 2021. 8 | Backend Developer (Internship)  |      **Kakao**        |
+|    **:office:Employment**    | 2021. 12 ~        | Backend Developer (Internship)  |     **IGAWorks**      |
+
 
 ### :mailbox_with_mail: Contacts
 
