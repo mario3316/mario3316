@@ -13,4 +13,4 @@
 
 ### :mailbox_with_mail: Contacts
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlshgktm@gmail.com)](mailto:wlshgktm@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-blog-black?style=flat-square&logo=github&link=https://mario3316.github.io/)](https://mario3316.github.io/)[![Instagram Badge](http://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=instagram&link=https://www.instagram.com/jji._.no/)](https://www.instagram.com/jji._.no/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlshgktm@gmail.com)](mailto:wlshgktm@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-blog-black?style=flat-square&logo=github&link=https://danny-dev.site/)](https://danny-dev.site/)[![Instagram Badge](http://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=instagram&link=https://www.instagram.com/jji._.no/)](https://www.instagram.com/jji._.no/)
