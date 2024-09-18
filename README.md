@@ -1,9 +1,5 @@
 [![Jinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=mario3316)](https://github.com/anuraghazra/github-readme-stats)
 
-:wave: Hello My name is Jinho
-
-My major is **computer science:computer:**, I have project experience using **Node.js & Javascript**, **Java** and Python. Check my projects here [![Tech Blog Badge](http://img.shields.io/badge/-blog-black?style=flat-square&logo=github&link=https://mario3316.github.io/)](https://mario3316.github.io/). I am interested in **Backend Development** and currently being educated **Java & Spring** at **SSAFY (Samsung Software Academy For Youth)**
-
 ### :cyclone: Career
 
 |           **Type**           |     **Date**      |          **Contents**           |   **Organization**    |
